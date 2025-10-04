@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.application\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.application\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.infrastructure\\repositories\\expenserepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.infrastructure\\repositories\\expenserepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.api\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.api\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.infrastructure\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.infrastructure\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.application\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.application\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Services\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Services\\ExpenseService.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\ExpenseService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:54:48.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:49:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:27:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseRepository .cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\ExpenseRepository .cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\ExpenseRepository .cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\ExpenseRepository .cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\Repositories\\ExpenseRepository .cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:47:36.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HomeAccounting\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HomeAccounting\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-04T11:04:06.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:07:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Expense.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:24:11.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.API\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.API\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.API\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.API\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T07:07:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\AppDbContext .cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\AppDbContext .cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\AppDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:45:52.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\Program.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\Program.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\Program.cs",
+              "RelativeToolTip": "HomeAccounting\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:27:54.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:58:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeAccounting\\appsettings.json",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\appsettings.json",
+              "RelativeToolTip": "HomeAccounting\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-04T17:04:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:52:26.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Application\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Application\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:48:26.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
