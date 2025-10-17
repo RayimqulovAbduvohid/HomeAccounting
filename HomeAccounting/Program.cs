@@ -56,7 +56,6 @@ namespace HomeAccounting
 
             var app = builder.Build();
 
-            // ✅ 5. Middlewarelar
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
