@@ -4,7 +4,7 @@ using HomeAccounting.src.HomeAccounting.Infrastructure.Repositories;
 
 namespace HomeAccounting.src.HomeAccounting.Application.Services
 {
-    public class ExpenseService
+    public class ExpenseService : IExpenseRepository
     {
         private readonly IExpenseRepository _expenseRepository;
 
@@ -50,6 +50,36 @@ namespace HomeAccounting.src.HomeAccounting.Application.Services
 
             _expenseRepository.Delete(exp);
             await _expenseRepository.SaveAsync();
+        }
+
+        public Task<IEnumerable<Expense>> GetAllAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Expense?> GetByIdAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task AddAsync(Expense expense)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Expense expense)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Delete(Expense expense)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task SaveAsync()
+        {
+            throw new NotImplementedException();
         }
     }
 }

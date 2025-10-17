@@ -1,16 +1,19 @@
 ﻿using HomeAccounting.src.HomeAccounting.Application.Services;
 using HomeAccounting.src.HomeAccounting.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace HomeAccounting.src.HomeAccounting.API.Controllers
 {
    [Route("api/[controller]")]
     [ApiController]
-    public class ExpenseController : ControllerBase
+    [Authorize]
+    public class ExpensesController : ControllerBase
     {
         private readonly ExpenseService _expenseService;
 
-        public ExpenseController(ExpenseService expenseService)
+        public ExpensesController(ExpenseService expenseService)
         {
             _expenseService = expenseService;
         }
@@ -19,10 +22,10 @@ namespace HomeAccounting.src.HomeAccounting.API.Controllers
         public async Task<IActionResult> GetAll()
             => Ok(await _expenseService.GetAllExpensesAsync());
 
-        [HttpGet("{id}")]
+        [HttpGet("{id:int}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var exp = await _expenseService.GetExpenseByIdAsync(id);
+            Expense exp = await _expenseService.GetExpenseByIdAsync(id);
             return exp is null ? NotFound() : Ok(exp);
         }
 
@@ -36,7 +39,7 @@ namespace HomeAccounting.src.HomeAccounting.API.Controllers
             return Ok("Xarajat qo‘shildi");
         }
           
-        [HttpPut("{id}")]
+        [HttpPut("{id:int}")]
         public async Task<IActionResult> Update(int id, Expense expense)
         {
             expense.Id = id;
@@ -44,7 +47,7 @@ namespace HomeAccounting.src.HomeAccounting.API.Controllers
             return Ok("Xarajat yangilandi");
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
             await _expenseService.DeleteExpenseAsync(id);

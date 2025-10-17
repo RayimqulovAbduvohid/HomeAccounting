@@ -1,6 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using HomeAccounting.Api.src.HomeAccounting.Application.Interfaces;
+using HomeAccounting.Api.src.HomeAccounting.Infrastructure.Repositories;
 using HomeAccounting.src.HomeAccounting.Application.Interfaces;
 using HomeAccounting.src.HomeAccounting.Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace HomeAccounting.src.HomeAccounting.Infrastructure
 {
@@ -13,6 +15,7 @@ namespace HomeAccounting.src.HomeAccounting.Infrastructure
 
             services.AddScoped<IExpenseRepository, ExpenseRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
 
             return services;
         }
