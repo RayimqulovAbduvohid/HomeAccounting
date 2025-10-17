@@ -1,8 +1,13 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "HomeAccounting.Api",
-    "version": "1.0"
+    "title": "HomeAccounting API",
+    "description": "API for managing expenses and categories",
+    "contact": {
+      "name": "Dilmurod",
+      "email": "example@gmail.com"
+    },
+    "version": "v1"
   },
   "paths": {
     "/api/Auth/register": {
@@ -395,6 +400,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Bearer {token} formatida JWT token kiriting",
+        "scheme": "Bearer",
+        "bearerFormat": "JWT"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }
