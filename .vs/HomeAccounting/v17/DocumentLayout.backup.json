@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.api\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.api\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.application\\services\\authservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.api\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.api\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|solutionrelative:homeaccounting\\src\\homeaccounting.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA36B14D-2F3F-4221-BC88-00BA26D05BAD}|HomeAccounting\\HomeAccounting.Api.csproj|c:\\users\\dilmurod\\desktop\\homeaccounting\\homeaccounting\\src\\homeaccounting.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,13 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthService .cs",
               "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Services\\AuthService .cs",
               "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\AuthService .cs",
               "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Services\\AuthService .cs",
               "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\AuthService .cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T11:33:10.527Z",
               "EditorCaption": ""
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Domain\\Entities\\User.cs",
@@ -152,33 +152,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CategorysController.cs",
               "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategorysController.cs",
               "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategorysController.cs",
               "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategorysController.cs",
               "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.API\\Controllers\\CategorysController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T07:07:43.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\Program.cs",
               "RelativeDocumentMoniker": "HomeAccounting\\Program.cs",
               "ToolTip": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\Program.cs",
               "RelativeToolTip": "HomeAccounting\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T13:27:54.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.API\\Controllers\\AuthController.cs",
@@ -191,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\dilmurod\\Desktop\\HomeAccounting\\HomeAccounting\\src\\HomeAccounting.Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\CategoryService.cs",
@@ -199,8 +199,7 @@
               "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Application\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:58:35.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T06:58:35.229Z"
             },
             {
               "$type": "Document",
@@ -224,8 +223,7 @@
               "RelativeToolTip": "HomeAccounting\\src\\HomeAccounting.Application\\Interfaces\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:18:51.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T10:18:51.939Z"
             },
             {
               "$type": "Document",

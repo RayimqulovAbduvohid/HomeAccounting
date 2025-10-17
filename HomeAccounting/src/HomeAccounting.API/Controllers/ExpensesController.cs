@@ -18,10 +18,12 @@ namespace HomeAccounting.src.HomeAccounting.API.Controllers
             _expenseService = expenseService;
         }
 
+        [Authorize(Roles = "User")]
         [HttpGet]
         public async Task<IActionResult> GetAll()
             => Ok(await _expenseService.GetAllExpensesAsync());
 
+        [Authorize(Roles = "User")]
         [HttpGet("{id:int}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -29,6 +31,7 @@ namespace HomeAccounting.src.HomeAccounting.API.Controllers
             return exp is null ? NotFound() : Ok(exp);
         }
 
+        [Authorize(Roles = "User")]
         [HttpPost]
         public async Task<IActionResult> Create(Expense expense)
         {
@@ -38,7 +41,8 @@ namespace HomeAccounting.src.HomeAccounting.API.Controllers
             await _expenseService.AddExpenseAsync(expense);
             return Ok("Xarajat qo‘shildi");
         }
-          
+
+        [Authorize(Roles = "User")]
         [HttpPut("{id:int}")]
         public async Task<IActionResult> Update(int id, Expense expense)
         {
@@ -47,6 +51,7 @@ namespace HomeAccounting.src.HomeAccounting.API.Controllers
             return Ok("Xarajat yangilandi");
         }
 
+        [Authorize(Roles = "User")]
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
