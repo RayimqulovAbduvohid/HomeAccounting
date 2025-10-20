@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace HomeAccounting.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251017070039_UserAddfour")]
-    partial class UserAddfour
+    [Migration("20251020062336_AddAuth")]
+    partial class AddAuth
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

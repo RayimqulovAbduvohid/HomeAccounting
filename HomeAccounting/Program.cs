@@ -47,7 +47,7 @@ builder.Services.AddSwaggerGen(options =>
         Description = "API for managing expenses and categories",
         Contact = new OpenApiContact
         {
-            Name = "Dilmurod",
+            Name = "Abduvohid",
             Email = "example@gmail.com"
         }
     });

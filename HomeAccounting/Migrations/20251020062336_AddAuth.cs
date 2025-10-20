@@ -7,7 +7,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace HomeAccounting.Api.Migrations
 {
     /// <inheritdoc />
-    public partial class UserAddfour : Migration
+    public partial class AddAuth : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

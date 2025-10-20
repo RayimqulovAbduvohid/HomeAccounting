@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeAccounting.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9841f7e7853fa838f91739ffab6d2245c72849c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80ac12070f3c300eab3433099fd8f489a2a8748b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeAccounting.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeAccounting.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
